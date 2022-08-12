@@ -1,0 +1,9 @@
+[submodule "Content/Mods/NoLogo"]
+	path = Content/Mods/NoLogo
+	url = git@github.com:Bass-StrayMods/NoLogo.git
+[submodule "Content/Mods/InputDisplay"]
+	path = Content/Mods/InputDisplay
+	url = git@github.com:Bass-StrayMods/InputDisplay.git
+[submodule "Content/Mods/SetupTrainer"]
+	path = Content/Mods/SetupTrainer
+	url = git@github.com:Bass-StrayMods/SetupTrainer.git
